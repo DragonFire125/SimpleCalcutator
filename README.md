@@ -1,3 +1,3 @@
 # Adder
 
-[Markdown format guide.](markdownguide.org/cheat-sheet)
+[Markdown format guide.](https://www.markdownguide.org/cheat-sheet)
