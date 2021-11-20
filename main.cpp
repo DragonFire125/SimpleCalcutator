@@ -15,13 +15,11 @@ int main(){
 		cin >> first;
 		total += first;
 	} while (first != 0); else if (type == "s"){
-		
 		cin >> first;
 		cin >> second;
 		total = first - second;
 	} 
 	else if (type == "m"){
-		
 		cin >> first;
 		cin >> second;
 		total = first * second;
