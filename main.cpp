@@ -23,7 +23,7 @@ int main(){
 		cin >> first;
 		cin >> second;
 		total = first * second;
-	}else {cout << "ERROR:UnkownType: a for Add. s for Sutract ctrl+c to exit";
+	}else {cout << "ERROR:UnkownType: a for Add. s for Sutract. m for mutiply ctrl+c to exit";
 	}
 	cout << total;
 }
