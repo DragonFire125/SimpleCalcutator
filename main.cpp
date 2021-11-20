@@ -25,7 +25,5 @@ int main(){
 		total = first * second;
 	}else {cout << "ERROR:UnkownType: a for add. s for sutract ctrl+c to exit";
 	}
-	
-	 
 	cout << total;
 }
