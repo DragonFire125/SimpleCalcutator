@@ -19,7 +19,13 @@ int main(){
 		cin >> first;
 		cin >> second;
 		total = first - second;
-	} else {cout << "ERROR:UnkownType: a for add. s for sutract ctrl+c to exit";
+	} 
+	else if (type == "m"){
+		
+		cin >> first;
+		cin >> second;
+		total = first * second;
+	}else {cout << "ERROR:UnkownType: a for add. s for sutract ctrl+c to exit";
 	}
 	
 	 
